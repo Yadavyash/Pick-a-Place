@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pick a Place</string>
+    <string name="title_activity_maps">Pick a Place</string>
+    <string name="google_api_key">AIzaSyDttA7jSSIuX50f35V0-9BiyXZI6PX0WNg</string>
+</resources>
